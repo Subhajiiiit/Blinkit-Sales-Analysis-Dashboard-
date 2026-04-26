@@ -1,7 +1,7 @@
 # Blinkit-Sales-Analysis-Dashboard-
 ## 📊 Dashboard Preview
 
-![Blinkit Analysis](blinkit-analysis.png)
+![Blinkit Analysis](blinkit_analysis.png)
 Blinkit Sales Dashboard ,
 This project analyzes sales, customer ratings, and outlet performance to uncover key business insights.
 🔍 Key Insights
