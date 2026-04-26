@@ -25,6 +25,7 @@ Indicates strong health-conscious demand
 Peak in 2018 (1,463 outlets), followed by stabilization (~928)
 8. Customer Rating
 Average rating: 3.9 / 5
+
 💡 Recommendations
 Reduce dependency on top-performing outlet type
 Improve performance of large outlets
